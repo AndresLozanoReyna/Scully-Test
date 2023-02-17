@@ -1,0 +1,6 @@
+{
+  "id": "cle919ai00000ie08emxxat9c",
+  "name": "scully-sites",
+  "distDir": "dist/static",
+  "buildCommand": "npm run build"
+}
